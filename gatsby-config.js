@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: `/southern-solutions-environmental`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Southern Solutions Environment`,
+    description: `We are a Viral Mitigation company located in Hendersonville. We have joined up with the Chamber of Commerce to fight against the Coronavirus (covid-19) pandemic.`,
+    author: `@simonpeterdebbarma`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
